@@ -26,6 +26,12 @@ npx create-remix@latest --template remix-run/indie-stack
 
 Not a fan of bits of the stack? Fork it, change it, and use `npx create-remix --template your/repo`! Make it your own.
 
+## Denis notes
+
+Follow along Kent Dodds "up and running with remix" on egghead.io
+
+Thus far I added a new posts route with loaders and $slug nested route with loaders.
+
 ## Quickstart
 
 Click this button to create a [Gitpod](https://gitpod.io) workspace with the project set up and Fly pre-installed
